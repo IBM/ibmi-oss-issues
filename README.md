@@ -22,6 +22,8 @@ issues with basic installation of RPM packages or the Access Client Solutions
 product can be handled (perhaps more efficiently) through an active Software
 Maintenance Agreement (SWMA) and an IBM Support ticket.
 
+Don't worry. If you aren't sure where to submit your issue, you can always start here!
+
 
 ## Expectations for submitted issues
 
