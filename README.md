@@ -3,8 +3,10 @@
 Issue tracker for open source technology on IBM i
 
 This repository is built to provide a community issue tracker for all things
-open source on IBM i. Click [here](https://github.com/IBM/ibmi-oss-issues/issues/new/choose)
-to open an issue.
+open source on IBM i. 
+
+➡️**Click [here](https://github.com/IBM/ibmi-oss-issues/issues/new/choose)
+to open an issue.** ⬅️
 
 ----
 
