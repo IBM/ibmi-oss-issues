@@ -31,7 +31,8 @@ Don't worry. If you aren't sure where to submit your issue, you can always start
 
 This issue tracker is not designed to be the point of resolution for all issues.
 It is also not designed to be an alternative to the [premium open source support](http://ibm.biz/ibmi-oss-support)
-that is available.
+that is available. Customers with an open source support subscription in place
+are given priority by IBM.
 
 When an issue is submitted, the IBM team may help to resolve your issue in a
 number of ways, including but not limited to:
