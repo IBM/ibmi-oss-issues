@@ -39,7 +39,7 @@ number of ways, including but not limited to:
 
 - Request to open the issue against another repository or project (when possible,
 the IBM team may do this for you)
-- Request to open an [RFE](https://www.ibm.com/support/pages/rfe-request-enhancement-ibm-i)
+- Request to open an [Idea](https://ideas.ibm.com/new-idea?product=7070565843208135910&category=7078724380260871338)
 - Closure due to permanent restriction, submitter inactivity, "working as designed"
 scenarios, etc.
 - Direct resolution in the issue
